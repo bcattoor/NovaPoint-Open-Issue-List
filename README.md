@@ -12,4 +12,4 @@ This is in no way an **official way of asking for support** for any of the above
 
 **The maintainer of this repository is not responsible for the content that is within this repository and its issue tracker.**
 
-For official information about Novapoint software: http://www.novapoint.com/products/novapoint/
+> For official information about Novapoint software: http://www.novapoint.com/products/novapoint/
