@@ -1,7 +1,7 @@
 <!--- Provide a general summary of the issue in the Title above -->
 
 <!-- By filling in this form, you are reporting an issue, or proposing an enhancement to the Novapoint community. -->
-<!-- Please do make note this is not an official way to ask for support, see:  --> [here](https://github.com/bcattoor/NovaPoint-Open-Issue-List/blob/master/README.md)
+<!-- Please do make note this is not an official way to ask for support, see:   [here](https://github.com/bcattoor/NovaPoint-Open-Issue-List/blob/master/README.md) -->
 
 ## Context
 <!--- Provide a more detailed introduction to the issue itself, and why you consider it to be a bug or enhancement -->
