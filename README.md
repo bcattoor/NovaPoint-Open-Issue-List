@@ -2,6 +2,8 @@
 # NovaPoint-Open-Issue-List
 Open transparant, and available for everyone.
 
+<p style="font-size:120%;" >U can find the list <a href="https://github.com/bcattoor/NovaPoint-Open-Issue-List/issues">here</a>.</p>
+
 ## Why this repository
 The last 5 years or so I have been working (commissioned by Infrabel) together with [vianova-systems.be](vianova-systems.be) to tackle *issue's, problems and enhancements* for the software product that is called *Novapoint BASE*, and the supplementary module that runs on top of AutoCAD, *Novapoint RAILWAY*.
 
