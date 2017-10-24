@@ -1,4 +1,6 @@
 <!--- Provide a general summary of the issue in the Title above -->
+<!--- Please use a logic way to create your title, ea: [MODULENAME]:[SECTION]:[BUG NAME] -->
+<!--  Ea: Base:Explorer:Can not delete an alignement after creating it -->
 
 <!-- By filling in this form, you are reporting an issue, or proposing an enhancement to the Novapoint community. -->
 <!-- Please do make note this is not an official way to ask for support, see:   [here](https://github.com/bcattoor/NovaPoint-Open-Issue-List/blob/master/README.md) -->
